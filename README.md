@@ -54,11 +54,11 @@ The model was trained using the **UCI CKD dataset**.
 <img src="/ROC_curve.png" width="420"/>
 
 ### Example Prediction (Single Patient)
-<img src="/example_test.png" width="420"/>
+<img src="/example_tets.png" width="420"/>
 
 
 # 🇺🇿Foydalish (O'zbek tilida)
-## Dastlab yuqoridan pipeline faylini yuklab oling, va  
+## Dastlab yuqoridan pipeline fayli(ckd_rf_simple_pipeline.pkl)ni yuklab oling, va  
 
 Pythonda quyidagilarni yozib app.py nomi bilan saqlab oling, undan so'ng terminalingizda shu kodni kiriting: streamlit run app.py
 Local hostda yangi display ochiladi, u foydalanishga juda qulay va siz bemalol bemorlarning malumotlarini kiritib tahlil qilishingiz mumkin!
