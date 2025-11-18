@@ -54,7 +54,7 @@ The model was trained using the **UCI CKD dataset**.
 <img src="/ROC_curve.png" width="420"/>
 
 ### Example Prediction (Single Patient)
-<img src="/example_tests.png" width="420"/>
+<img src="/example_test.png" width="420"/>
 
 
 # 🇺🇿Foydalish (O'zbek tilida)
