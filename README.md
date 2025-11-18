@@ -48,13 +48,13 @@ The model was trained using the **UCI CKD dataset**.
 ## 📊 Model Visualizations
 
 ### Confusion Matrix
-<img src="images/conf_matrix.png" width="420"/>
+<img src="/conf_matrix.png" width="420"/>
 
 ### ROC Curve
-<img src="images/ROC_curve.png" width="420"/>
+<img src="/ROC_curve.png" width="420"/>
 
 ### Example Prediction (Single Patient)
-<img src="images/example_tests.png" width="420"/>
+<img src="/example_tests.png" width="420"/>
 
 
 # 🇺🇿Foydalish (O'zbek tilida)
